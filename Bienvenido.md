@@ -1,11 +1,5 @@
 # Conoce el Simulador Fiscal CIEP
 
-Versión: 14 de marzo de 2025
-
-<hr style="border: none; height: 2px; background-color: #ff7020;">
-
-<h2 style="color: #ff7020;">Simulador Fiscal</h2>
-
 #### ¿Qué hace el Simulador Fiscal?
 
 El proyecto del Simulador Fiscal facilita el acceso a toda la información económica relevante de México. Con los programas del simulador podrás acceder a gran parte de la información económica pública a través de Stata. Además, el simulador brinda un pre-análisis y gráficas para facilitar la comprensión de los datos.
