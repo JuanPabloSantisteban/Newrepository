@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="ReadMe/CIEPlogo.png" style="width: 50%; height: auto;" alt="Paso1">
+</div>
+
+
 # Conoce el Simulador Fiscal CIEP
 
 #### ¿Qué hace el Simulador Fiscal?
@@ -25,15 +30,11 @@ Además de facilitar la descarga de indicadores económicos, el simulador tiene 
     <img src="ReadMe/Grafica4.png" style="width: 100%;">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="ReadMe/Grafica4.png" style="width: 50%; height: auto;" alt="Paso1">
-</div>
-
 
 **3. Base de Datos procesada:** El simulador analiza los datos e incorpora indicadores adicionales. Por ejemplo, el programa PIBDeflactor facilita el acceso a datos como el PIB Nominal, PIB Real, PIB per cápita, y PIB por población ocupada, entre otros
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="ReadMe/video3.gif" style="width: 50%; height: auto;" alt="Paso1">
+    <img src="ReadMe/BaseDeDatos.png" style="width: 50%; height: auto;" alt="Paso1">
 </div>
 
 
@@ -53,16 +54,16 @@ Ve a la página de [github.com/apps/desktop](https://github.com/apps/desktop) y 
  
  
  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="manuales/images/ReadMe/Paso1.png" style="width: 50%; height: auto;" alt="Paso1">
+    <img src="ReadMe/Paso1.png" style="width: 50%; height: auto;" alt="Paso1">
 </div>
  
 3. Ingresa el URL `https://github.com/rcantuc/SimuladorCIEP` y haz click en Clone
  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="manuales/images/ReadMe/Paso2.png" style="width: 50%; height: auto;" alt="Paso2">
+    <img src="ReadMe/Paso2.png" style="width: 50%; height: auto;" alt="Paso2">
 </div>
 4. El repositorio empezará a descargarse en tu computadora
  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="manuales/images/ReadMe/Paso3.png" style="width: 50%; height: auto;" alt="Paso3">
+    <img src="ReadMe/Paso3.png" style="width: 50%; height: auto;" alt="Paso3">
 </div>
  
 </details>
