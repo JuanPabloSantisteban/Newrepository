@@ -165,7 +165,7 @@ Para crear comandos de manera automática y evitar errores de sintaxis, utiliza 
 
 
 <details>
-  <summary>**Descripción de opciones**</summary>
+  <summary>Descripción de opciones prueba</summary>
   
 - **Año Base (aniovp)**: Cambia el año de referencia para calcular el *valor presente*. Tiene que ser un número entre 1993 (mínimo reportado por el INEGI/BIE) y 2050 (máximo proyectado por el CONAPO, en su base de población). El *año actual* es el valor por default.
 - **Año Final (aniomax)**: Año final para las proyecciónes de las gráficas. El último año de la serie (2070) es el valor por default.
