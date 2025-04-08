@@ -55,16 +55,16 @@ Además de facilitar la descarga de indicadores económicos, el simulador tiene 
 **2. Gráficas:** El simulador proporciona acceso a gráficas que mejoran la comprensión de los datos.
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-    <img src="manuales/images/ReadMe/Grafica1.png" style="width: 100%;">
-    <img src="manuales/images/ReadMe/Grafica2.png" style="width: 100%;">
-    <img src="manuales/images/ReadMe/Grafica3.png" style="width: 100%;">
-    <img src="manuales/images/ReadMe/Grafica4.png" style="width: 100%;">
+    <img src="ReadMe/Grafica1.png" style="width: 100%;">
+    <img src="ReadMe/Grafica2.png" style="width: 100%;">
+    <img src="ReadMe/Grafica3.png" style="width: 100%;">
+    <img src="ReadMe/Grafica4.png" style="width: 100%;">
 </div>
 
 **3. Base de Datos procesada:** El simulador analiza los datos e incorpora indicadores adicionales. Por ejemplo, el programa PIBDeflactor facilita el acceso a datos como el PIB Nominal, PIB Real, PIB per cápita, y PIB por población ocupada, entre otros
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="manuales/images/ReadMe/video3.gif" style="width: 50%; height: auto;" alt="Paso1">
+    <img src="ReadMe/video3.gif" style="width: 50%; height: auto;" alt="Paso1">
 </div>
 
 
@@ -131,7 +131,7 @@ Este programa está diseñado para proporcionar acceso estructurado a cualquier 
 Para llamar al programa es necesario escribir un comando en la consola de Stata. Cada comando tiene una sintaxis específica y puede incluir *options*, instrucciones específicas que permiten refinar tu búsqueda para adaptarlo a lo que buscas.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="manuales/images/ReadMe/imagen1.png" style="width: 50%; height: auto;" alt="Paso1">
+    <img src="ReadMe/imagen1.png" style="width: 50%; height: auto;" alt="Paso1">
 </div>
 
 
