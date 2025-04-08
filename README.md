@@ -61,6 +61,11 @@ Además de facilitar la descarga de indicadores económicos, el simulador tiene 
     <img src="ReadMe/Grafica4.png" style="width: 100%;">
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="ReadMe/Grafica4.png" style="width: 50%; height: auto;" alt="Paso1">
+</div>
+
+
 **3. Base de Datos procesada:** El simulador analiza los datos e incorpora indicadores adicionales. Por ejemplo, el programa PIBDeflactor facilita el acceso a datos como el PIB Nominal, PIB Real, PIB per cápita, y PIB por población ocupada, entre otros
 
 <div style="display: flex; justify-content: center; align-items: center;">
