@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Simulador Fiscal CIEP</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">Cargando...</div>
+
+  <script>
+    window.$docsify = {
+      name: 'Simulador Fiscal CIEP',
+      homepage: 'README.md',   // Página principal al iniciar
+      loadSidebar: true,             // Activa el sidebar
+      executeScript: true            // Permite ejecutar JS embebido
+    }
+  </script>
+
+  <!-- Plugin para volver a ejecutar <script data-exec-on-render> -->
+  <script>
+    window.$docsify.plugins = [].concat((hook, vm) => {
+      hook.doneEach(() => {
+        const scripts = document.querySelectorAll('script[data-exec-on-render]');
+        scripts.forEach(oldScript => {
+          const newScript = document.createElement('script');
+          newScript.text = oldScript.text;
+          oldScript.parentNode.replaceChild(newScript, oldScript);
+        });
+      });
+    }, window.$docsify.plugins);
+  </script>
+
+  <!-- Docsify -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
