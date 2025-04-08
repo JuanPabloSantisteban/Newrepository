@@ -2,6 +2,7 @@
     <img src="ReadMe/CIEPlogo.png" style="width: 50%; height: auto;" alt="Paso1">
 </div>
 
+-
 
 # Conoce el Simulador Fiscal CIEP
 
@@ -73,7 +74,7 @@ Ve a la página de [github.com/apps/desktop](https://github.com/apps/desktop) y 
 
 <h2 style="color: #ff7020;">Programas Disponibles</h2>
 
-A través de este simulador podrás acceder a diversos indicadores económicos con el uso de comandos. Estos son los comandos se han desarrollado hasta el momento:
+A través de este simulador podrás acceder a diversos indicadores económicos con el uso de comandos. Estos son los comandos que se han desarrollado hasta el momento:
 
 #### 1. `Poblacion`
 Este programa importa los datos de población por edad, sexo y entidad federativa para todos los años de interés. Los datos provienen de la CONAPO. También genera gráficos de la pirámide y transición demográfica para el año de interés.
@@ -95,6 +96,9 @@ Este programa importa y procesa datos del Presupuesto de Egresos de la Federaci�
 
 #### 7. `DatosAbiertos`
 Este programa está diseñado para proporcionar acceso estructurado a cualquier indicador económico de las Estadísticas Oportunas de Finanzas Públicas, facilitando su consulta y análisis. Para este programa se utiliza información de la SHCP y del INEGI.
+
+#### 7. `AccesoBIE`
+Este programa esta diseñado para cargar datos disponibles en el Banco de Información Económica. Muchos de los programas anteriores emplean el programa AccesoBIE internamente para acceder a datos económicos de manera automática.
 
 <h2 style="color: #ff7020;">Como usar el Simulador</h2>
 

@@ -1,3 +1,8 @@
+
+  ![CodigoFuente2A](ReadMe/SimuladorFiscalLogoGris.png)
+
+
+
 # Conoce el Simulador Fiscal CIEP
 
 Versión: 14 de marzo de 2025

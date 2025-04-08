@@ -1,13 +1,11 @@
 - Inicio
   - [Bienvenido](Bienvenido.md)
 - Simulador Fiscal
-  - [PIBDeflactor](PIBDeflactor.md)
-  - [Bienvenido](Bienvenido.md)
   - [Población](Poblacion.md)
-  - [LIF](LIF.md)
-  - [PEF](PEF.md)
+  - [PIBDeflactor](PIBDeflactor.md)
   - [SCN](SCN.md)
   - [SHRFSP](SHRFSP.md)
+  - [LIF](LIF.md)
+  - [PEF](PEF.md)
   - [Datos Abiertos](DatosAbiertos.md)
   - [Acceso BIE](AccesoBIE.md)
-  - [SHRFSP](SHRFSP.md)
